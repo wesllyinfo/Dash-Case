@@ -6,3 +6,5 @@ These projects often involve the use of tools such as Excel, SQL, Power Bi, Look
 The goal of a data analytics project is to extract useful information from raw data and use it to improve business processes, inform strategy, and drive growth. 
 
 Some common types of data analytics projects include customer segmentation, predictive modeling, and A/B testing.
+
+## Repositories
